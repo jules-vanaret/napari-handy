@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v1.1.0
+_src_path: https://github.com/napari/napari-plugin-template
+display_name: Handy
+email: jules.vanaret@univ-amu.fr
+full_name: jules-vanaret
+github_repository_url: provide later
+github_username_or_organization: jules-vanaret
+include_reader_plugin: false
+include_sample_data_plugin: false
+include_widget_plugin: true
+include_writer_plugin: false
+install_dependabot: false
+install_precommit: true
+license: BSD-3
+module_name: napari_handy
+plugin_name: napari-handy
+short_description: Capture your hands with a camera and control Napari layers!
